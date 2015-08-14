@@ -1,6 +1,6 @@
 {
-  "name": "to-array",
-  "repo": "slifszyc/to-array",
+  "name": "democracyos-to-array",
+  "repo": "DemocracyOS/to-array",
   "twitter": "secoif",
   "description": "Convert an array-like object into an Array.",
   "version": "0.2.1",
